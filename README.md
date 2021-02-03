@@ -17,3 +17,14 @@ The application uses CoreData to add update delete notes and all corresponding f
 Insatallion
 
 Download ipa file onto IOS device and install that file to run the application
+
+
+![Screenshot](Notes_1.png)
+![Screenshot](Notes_2.png)
+![Screenshot](Notes_3.png)
+![Screenshot](Notes_4.png)
+![Screenshot](Notes_5.png)
+![Screenshot](Notes_6.png)
+![Screenshot](Notes_7.png)
+![Screenshot](Notes_8.png)
+![Screenshot](Notes_9.png)
